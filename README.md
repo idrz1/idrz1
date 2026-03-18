@@ -1,4 +1,11 @@
-## Hi there 👋
+# Olá, eu sou o Eduardo Loschi! 👋
+
+Estudante de Ciência da Computação na UFMG. 
+Atualmente focando em Engenharia de Dados e automação de processos.
+
+- 🛠 Tecnologias: Python, C, C++, SQL, MySQL.
+- 🎓 Estudando: Estrutura de Dados e Pipelines de Dados.
+- 📫 Como me encontrar:[(\https://www.linkedin.com/in/eduardo-loschi-b9b93a343/)]
 
 <!--
 **idrz1/idrz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
